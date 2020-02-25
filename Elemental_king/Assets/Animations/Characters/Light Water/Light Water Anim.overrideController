@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Light Water Anim
+  m_Controller: {fileID: 9100000, guid: 9e96f19b5b47cbf42a3c5a934a4e4b7d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 06f44f976d8fb444b8da8a131aa57a30, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 74f9508cd7e86e04babb32c574b8ecdf, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: dd9a6b7ae53b6c8479079bd2a327bdf3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 698051d69fbcd0e4c9faf19f0ef96547, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 59a077b78c5e9b542bd3549377852a43, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cd15323fea7cd654ead8722f6fc460b8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3121c31a7e97fbc4e82d3aab6bff7e57, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3fe5e19a30131314489c77ad171cf9e5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d8d4e31f15496bc41ad8e93ebc442e56, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0cf7d80b96bdb8743acb8ab32e7a5a38, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 697bc24515cc57a4ca3233255929c423, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1d401f17209338a4ea019b44969749b4, type: 2}
